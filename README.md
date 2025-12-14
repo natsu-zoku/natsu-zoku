@@ -1,4 +1,4 @@
-A grad student of Mathematics with an interest in optimisation and computational linguistics.
+
 
 <!---
 natsu-zoku/natsu-zoku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
